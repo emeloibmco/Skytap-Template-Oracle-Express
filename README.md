@@ -4,9 +4,9 @@ _Para el desarrollo de este Despliegue se tiene como base una maquina Ubuntu 18.
 
 ### INDICE:
 1. [Login y acceso a la maquina ubuntu en Skytap](#Login-y-acceso-a-la-maquina-ubuntu-en-Skytap)
-2. [Preparacion de la maquina Ubuntu para la Instalación](#Preparacion de la maquina Ubuntu para la Instalación-)
-3. [Instalación del Oracle Express](#Instalación del Oracle Express-)
-4. [Uso del Comand Shell de Oracle](#USO DEL COMAND SHELL DE ORACLE)
+2. [Preparacion de la maquina Ubuntu para la Instalación](#Preparacion-de-la-maquina-Ubuntu-para-la-Instalación-)
+3. [Instalación del Oracle Express](#Instalación-del-Oracle-Express-)
+4. [Uso del Comand Shell de Oracle](#USO-DEL-COMAND-SHELL-DE-ORACLE)
 
 1. [TL;DR](#tldr)
 2. [Arquitectura](#-arquitectura)
