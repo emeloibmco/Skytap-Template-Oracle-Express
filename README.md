@@ -3,7 +3,6 @@
 _Para el desarrollo de este Despliegue se tiene como base una maquina Ubuntu 18.04.1 que se encuentra alojada en Skytap._
 
 
-Indice
 
 ## Login y acceso a la maquina ubuntu en Skytap:
 
