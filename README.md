@@ -3,10 +3,16 @@
 _Para el desarrollo de este Despliegue se tiene como base una maquina Ubuntu 18.04.1 que se encuentra alojada en Skytap._
 
 ### INDICE:
-1. [Login y acceso a la maquina ubuntu en Skytap](#Login y acceso a la maquina ubuntu en Skytap)
+1. [Login y acceso a la maquina ubuntu en Skytap](#Login-y-acceso-a-la-maquina-ubuntu-en-Skytap)
 2. [Preparacion de la maquina Ubuntu para la Instalación](#Preparacion de la maquina Ubuntu para la Instalación-)
 3. [Instalación del Oracle Express](#Instalación del Oracle Express-)
 4. [Uso del Comand Shell de Oracle](#USO DEL COMAND SHELL DE ORACLE)
+
+1. [TL;DR](#tldr)
+2. [Arquitectura](#-arquitectura)
+3. [¿Cómo funciona?](#-cómo-funciona)
+4. [Manejando el JSON del API IBM Watson](#-manejando-el-JSON-del-API-IBM-Watson)
+5. [Referencias y documentación útil](#referencias-y-documentación-util)
 
 ## Login y acceso a la maquina ubuntu en Skytap:
 
