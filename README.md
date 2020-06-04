@@ -41,7 +41,7 @@ _1. Inicialmente debemos descargar el instalador del Oracle Express, y lo podemo
 https://www.oracle.com/database/technologies/xe-prior-releases.html
 ```
 <p align="center">
-<img width="439" alt="IBMIM" src="https://user-images.githubusercontent.com/60987042/83689743-33815900-a5b5-11ea-84a6-40a486002b4c.PNG">
+<img width="960" alt="des-ora" src="https://user-images.githubusercontent.com/60987042/83807752-2f1e7400-a679-11ea-8c42-bfda8ad8431e.PNG">
 </p>
 
 _2.	Debemos abrir una terminal, la cual se puede abrir mediante el siguiente comando:_
