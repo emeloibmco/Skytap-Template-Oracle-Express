@@ -2,6 +2,7 @@
 
 _Para el desarrollo de este Despliegue se tiene como base una maquina Ubuntu 18.04.1 que se encuentra alojada en Skytap._
 
+### INDICE:
 
 
 ## Login y acceso a la maquina ubuntu en Skytap:
@@ -80,7 +81,7 @@ _6.	A continuanción, debemos convertir el paquete de formato RPM alformato DEB 
 ```
 sudo alien --scripts -d oracle-xe-11.2.0-1.0.x86_64.rpm
 ```
-_7. Una vez se tenga el archivo .deb, necesitamos crear el script chkconfig requerido y se hace usando el siguiente comando:	_
+_7. Una vez se tenga el archivo .deb, necesitamos crear el script chkconfig requerido y se hace usando el siguiente comando:_
 
 ```
 sudo nano /sbin/chkconfig
