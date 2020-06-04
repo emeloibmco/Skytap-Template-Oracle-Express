@@ -8,12 +8,6 @@ _Para el desarrollo de este Despliegue se tiene como base una maquina Ubuntu 18.
 3. [Instalación del Oracle Express](#Instalación-del-Oracle-Express-)
 4. [Uso del Comand Shell de Oracle](#USO-DEL-COMAND-SHELL-DE-ORACLE)
 
-1. [TL;DR](#tldr)
-2. [Arquitectura](#-arquitectura)
-3. [¿Cómo funciona?](#-cómo-funciona)
-4. [Manejando el JSON del API IBM Watson](#-manejando-el-JSON-del-API-IBM-Watson)
-5. [Referencias y documentación útil](#referencias-y-documentación-util)
-
 ## Login y acceso a la maquina ubuntu en Skytap:
 
 #### Para realizar de manera corracta el login y acceso a la maquina ubuntu debemos seguir los siguientes pasos:
